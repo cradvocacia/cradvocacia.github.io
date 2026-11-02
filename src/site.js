@@ -1,4 +1,4 @@
-// Creverson & Rafael Advogados – interações do site (sem dependências)
+// C&R Advocacia – interações do site (sem dependências)
 (() => {
   'use strict';
 
